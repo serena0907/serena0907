@@ -1,10 +1,6 @@
-### Hi, I'm a girl! 👋
-
-- 🔭 나는 대구제일초등학교 다녀요.
-- 🌱 에나는 파이썬을 잘해요.
-- 👯 나는 색칠공부가 좋아
-- 🤔 나는 서울대에 갈거에요. 나는 컴퓨터가 너무 관심있어요.
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi, I'm student! 👋
+I am going to tell something about me : 
+- 🎓I go to elemtary school, but I will go to middle school next year.
+- 💖 My hobbies are drawing, reading and baking.
+- 🤔 I am interested in python:) I have learned python for 6 months.
+- 👯I want to have foreign friends!
