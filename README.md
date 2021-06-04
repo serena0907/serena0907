@@ -1,4 +1,4 @@
-### Hi, I am Arin Seo! 👋
+### I am Arin Seo!
 
 - 🎓 I am a senior student of [Wolseo elementry school](http://www.dgwolseo.es.kr/).
 - 🤔 I am interested in __Python__ :) I am learning __Python__ from a robotics researcher [Taekyung Kim](https://github.com/ktk1501).
